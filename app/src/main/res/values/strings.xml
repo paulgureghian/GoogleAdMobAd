@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">GoogleAdMobAd</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="level_one">Level One</string>
+    <string name="level_two">Level Two</string>
+    <string name="ad_id_interstitial">ca-app-pub-7912552361212336/4715334004</string>
+    <string name="ad_id_banner">ca-app-pub-7912552361212336/8528254806</string>
+    <string name="gameHeader">My Game App</string>
+
+
+
+
+</resources>
